@@ -4,8 +4,5 @@ info:
   
 test: bbb
 
-#注册到服务注册中心
-eureka:
-  client:
-    service-url:
-      defaultZone: http://localhost:9401/eureka/
+server:
+  port: 2009
