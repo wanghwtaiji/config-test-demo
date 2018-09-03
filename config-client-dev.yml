@@ -2,5 +2,7 @@ info:
   profile: dev
   from: git
 
+test: ccc
+
 server:
   port: 2010
