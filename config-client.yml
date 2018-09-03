@@ -4,6 +4,3 @@ info:
   
 test: bbb
 
-spring:
-  application:
-    name: config-client
