@@ -1,8 +1,6 @@
 info:
   profile: dev
   from: git
-spring:
-  application:
-    name: config-client
+
 server:
   port: 2010
