@@ -7,6 +7,3 @@ test: bbb
 spring:
   application:
     name: config-client
-    
-server:
-  port: 2009
