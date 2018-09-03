@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: config-server
 info:
   profile: default
   from: git1
