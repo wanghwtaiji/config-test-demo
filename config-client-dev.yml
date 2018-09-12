@@ -1,7 +1,8 @@
 info:
   profile: dev
   from: git
-
+  test: trace-this!!!!!!!!!!!
+  
 test: ccc
 
 server:
