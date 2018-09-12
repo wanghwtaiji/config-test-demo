@@ -4,5 +4,5 @@ info:
   
 test: bbb
 
-server:
-  port: 2010
+#server:
+#  port: 2010
