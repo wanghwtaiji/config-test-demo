@@ -3,6 +3,3 @@ info:
   from: git1
   
 test: bbb
-
-server:
-  port: 2009
