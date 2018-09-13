@@ -1,6 +1,6 @@
 info:
   profile: default
-  from: git
+  from: git11
   test: trace-this！！！！！
   
 test: bbb222
