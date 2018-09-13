@@ -3,9 +3,9 @@ info:
   from: git
   test: trace-this！！！！！
   
-test: bbb2222222222
+test: bbb
 
-from: 111
+from: 1111
 
 #server:
 #  port: 2010
