@@ -3,7 +3,7 @@ info:
   from: git
   test: trace-this！！！！！
   
-test: bbb
+test: bbb222
 
 #server:
 #  port: 2010
