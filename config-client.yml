@@ -1,9 +1,9 @@
 info:
   profile: default
-  from: git1
+  from: git
   test: trace-this！！！！！
   
-test: bbb111
+test: bbb
 
 #server:
 #  port: 2010
