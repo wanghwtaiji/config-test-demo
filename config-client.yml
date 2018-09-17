@@ -5,7 +5,7 @@ info:
   
 test: bbb
 
-from: this is from
+from: this is from 
 
 #server:
 #  port: 2010
