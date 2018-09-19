@@ -1,7 +1,7 @@
 info:
   profile: default
   from: git
-  test: trace-this！！！
+  test: trace-this！
   
 test: bbb
 
