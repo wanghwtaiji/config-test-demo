@@ -1,6 +1,6 @@
 info:
   profile: dev
-  from: git11
+  from: git-dev
   
 test: ccc
 
