@@ -3,7 +3,7 @@ info:
   from: git
   test: trace-new！！！
   
-test: bbb
+test: '{cipher}bc6c20b3a8f95c35f8d5e0654b8187c9c35516d05d80eb0113d9181cadf9c443'
 
 from: this is from 
 
