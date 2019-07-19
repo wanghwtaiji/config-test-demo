@@ -4,8 +4,8 @@ info:
   
 test: ccc
 
-# server:
-#   port: 2010
+server:
+  port: 2010
   
 spring:
   cloud:
