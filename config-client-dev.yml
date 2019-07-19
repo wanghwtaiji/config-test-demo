@@ -4,5 +4,18 @@ info:
   
 test: ccc
 
-server:
-  port: 2010
+# server:
+#   port: 2010
+  
+spring:
+  cloud:
+    config:
+ #     uri: http://localhost:1201/
+      profile: dev
+      label: master
+      discovery:
+        #表示使用服务发现组件中提供的Config Server，默认是false
+        #开启通过服务发现组件访问Config Server的功能，也就是从配置中心读取文件
+        enabled: true
+        #指定Config Server在服务发现组件中的serviceId，也就是服务名称， 默认是configserver
+        service-id: tdf-cloud-config
