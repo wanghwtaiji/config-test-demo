@@ -1,11 +1,11 @@
 info:
   profile: default
   from: git
-  test: trace-this-test-new！！！！！
+  test: trace！！！
   
-test: bbb
+test: '{cipher}2ead5e2233b92283e97218f99daaf020373e8f93611bb983b341ecdfb2559380'
 
 from: this is from 
 
-server:
-  port: 2010
+#server:
+#  port: 2010
