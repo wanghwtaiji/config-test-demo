@@ -11,6 +11,4 @@ server:
   port: 2011
 logging:
   level:
-    root: debug
-    org.springframework.boot: debug
-    org.springframework.cloud: debug  
+    com.example.comfig: info
