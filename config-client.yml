@@ -11,4 +11,4 @@ server:
   port: 2011
 logging:
   level:
-    com.example.comfig: debug
+    com.example.comfig: error
