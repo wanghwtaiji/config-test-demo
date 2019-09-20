@@ -9,3 +9,7 @@ from: this is from
 
 server:
   port: 2011
+logging:
+  level:
+    org.springframework.boot: info
+    org.springframework.cloud: info  
