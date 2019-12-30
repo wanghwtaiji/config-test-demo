@@ -6,7 +6,10 @@ info:
 test: '555666777888'
 
 from: this is from 
-
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9401/eureka/
 server:
   port: 2011
 logging:
