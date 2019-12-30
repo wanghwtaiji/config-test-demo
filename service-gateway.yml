@@ -1,1 +1,14 @@
+info:
+  profile: default
+  from: git
+  test: trace！！！
+  
 test: '555666777888'
+
+from: this is from 
+
+server:
+  port: 2011
+logging:
+  level:
+    com.example.config: debug
